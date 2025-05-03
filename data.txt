@@ -1,0 +1,6 @@
+Product type, Product ID, Name, Description, Price, Brand/size, Model/Material, Warranty Period/Available Colors
+electric, 152334, Laptop, Powerful laptop with high-speed processor, 1200.00, Dell, Inspiron, 12
+electric, 366321, Smartphone, Latest smartphone with advanced features, 899.99, Samsung, Galaxy S21, 24
+clothing, 487945, Jeans, Comfortable denim jeans, 39.95, L, Denim, Blue; Black
+clothing, 264843, T-Shirt, Casual cotton t-shirt, 20.99, M, Cotton, Red; Blue; Green
+electric, 575424, Headphones, Premium over-ear headphones, 149.99, Sony, WH-1000XM4, 12
